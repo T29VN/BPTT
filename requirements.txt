@@ -1,0 +1,6 @@
+﻿# Core runtime dependency for src/visualizer.py
+matplotlib>=3.5
+
+# Auxiliary script dependency: tests/tinh_phuong_trinh_bac_2.py imports numpy.
+# matplotlib also depends on numpy, but this keeps the direct import explicit.
+numpy>=1.23

@@ -1,4 +1,4 @@
-﻿# BPTT - Bình Phương Tối Thiểu
+﻿# BPTT - Bình Phương Tối Thiểu (python), ESP32 (C)
 
 Dự án này triển khai phép hồi quy đa thức bậc 2 bằng phương pháp bình phương tối thiểu:
 
@@ -166,3 +166,4 @@ lsm_calculation_project/docs/diagrams/resume_state.md
 - Không sửa các file output đã tạo nếu cần giữ nguyên kết quả hiện tại.
 - Nên kiểm tra file dữ liệu đầu vào trước khi so sánh hệ số `a`, `b`, `c`, vì hai CSV hiện có cho ra hai bộ hệ số khác nhau.
 - Khi cập nhật tài liệu, ưu tiên phản ánh đúng mã local hiện tại thay vì dựa vào nguồn bên ngoài.
+

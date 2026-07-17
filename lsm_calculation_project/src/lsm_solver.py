@@ -148,6 +148,7 @@ def kiem_tra_du_lieu(x_data, y_data, bac_da_thuc=2):
             f"{bac_da_thuc}, nhung chi co {len(x_data)} diem!"
         )
 
+    # cái này kiểm tra các x có trùng nhau không
     if len(set(x_data)) < so_he_so:
         raise ValueError(
             f"Can it nhat {so_he_so} gia tri x khac nhau, "

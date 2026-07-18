@@ -1,6 +1,6 @@
 ﻿# BPTT - Bình Phương Tối Thiểu (python), ESP32 (C)
 
-Dự án này triển khai phép hồi quy đa thức bậc 2 bằng phương pháp bình phương tối thiểu và có kèm theo file code C nạp cho esp 32 và link web để điều khiển esp32 thông qua firebase "https://da220252.vercel.app/"
+Dự án này triển khai phép hồi quy đa thức bậc 2 bằng phương pháp bình phương tối thiểu và có kèm theo file code C nạp cho esp 32 và link web để điều khiển esp32 thông qua firebase "https://da220252.vercel.app/". Mã nguồn web "https://github.com/T29VN/WEB_DA2.git"
 
 ```text
 y = a*x^2 + b*x + c
